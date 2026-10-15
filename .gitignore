@@ -1,0 +1,10 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+outputs/
+data/bank/
+data/bank-additional/
+data/*.zip
+data/bank-full.csv
